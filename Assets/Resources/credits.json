@@ -1,0 +1,19 @@
+{
+    "titleSize": 40,
+    "nameSize": 24,
+    "teams": 
+    [
+        {
+            "names": ["Ana", "Bruno", "Kleber", "Renan", "Mayara"],
+            "title": "Programmers"
+        },
+        {
+            "names": ["Rafael", "Nathan", "Thiago", "Ian"],
+            "title": "2D Art"
+        }, 
+        {
+            "names": ["Unity", "Coffee Machine"],
+            "title": "Tools"
+        }
+    ]
+}
